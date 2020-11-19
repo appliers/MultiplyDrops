@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MultiplyDrops:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MultiplyDrops_jar</output-path>
+    <root id="archive" name="MultiplyDrops.jar">
+      <element id="module-output" name="MultiplyDrops" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Plugins/spigot-1.16.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+name: MultiplyDrops
+version: 1.0
+author: xKwm1
+main: me.xkwm1.multiplydrops.MultiplyDrops
+api-version: 1.16
+commands:
+  drops:
+    description: Toggle multiplied block dropping
+    usage: /drops
